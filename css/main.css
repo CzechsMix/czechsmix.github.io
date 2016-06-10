@@ -1,0 +1,42 @@
+/*
+ Body
+*/
+
+body {
+  max-width: 700px;
+  margin: auto;
+}
+
+
+/*
+ Nav
+*/
+nav {
+  text-align: center;
+}
+
+nav a {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+/*
+ Header
+*/
+#site-header {
+  margin-top: 100px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid black;
+}
+
+#site-header h1, #site-header h4 {
+  text-align: center;
+}
+
+#site-header img {
+  display: block;
+  height: 100px;
+  width: auto;
+  margin: auto;
+  border-radius: 100%;
+}
