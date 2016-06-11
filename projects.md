@@ -3,4 +3,4 @@ layout: page
 title: Projects
 ---
 
-Sample projects page.
+##### No projects posted at this time.
