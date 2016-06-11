@@ -1,4 +1,13 @@
 /*
+global
+*/
+
+html {
+  font-family: 'PT sans', sans-serif;
+}
+
+
+/*
  Body
 */
 
@@ -13,11 +22,16 @@ body {
 */
 nav {
   text-align: center;
+  margin-top: 20px;
 }
 
 nav a {
-  margin-left: 20px;
-  margin-right: 20px;
+  margin: 0px 20px;
+  padding: 10px;
+  border-radius: 5px;
+  background: #EEE;
+  text-decoration: none;
+  color: black;
 }
 
 /*
@@ -39,4 +53,24 @@ nav a {
   width: auto;
   margin: auto;
   border-radius: 100%;
+}
+
+/*
+footer
+*/
+
+#social-media-icons {
+  list-style: none;
+  text-align: center;
+  padding: 0px;
+  font-size: 3em;
+}
+
+#social-media-icons li {
+  display: inline;
+}
+
+#social-media-icons a {
+  text-decoration: none;
+  color: #666;
 }

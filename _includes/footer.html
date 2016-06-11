@@ -1,1 +1,18 @@
-
+<div class="footer">
+  <ul id="social-media-icons">
+    {% if site.twitter_username %}
+      <li>
+        <a href="https://twitter.com/{{ site.twitter_username }}">
+          <i class="fa fa-twitter"></i>
+        </a>
+      </li>
+    {% endif %}
+    {% if site.github_username %}
+      <li>
+        <a href="https://github.com/{{ site.github_username }}">
+          <i class="fa fa-github"></i>
+        </a>
+      </li>
+    {% endif %}
+  </ul>
+</div>
