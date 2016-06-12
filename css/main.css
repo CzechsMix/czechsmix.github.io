@@ -35,6 +35,10 @@ nav a {
   color: black;
 }
 
+nav a:hover {
+  background: #CCC;
+}
+
 /*
  Header
 */
@@ -79,13 +83,14 @@ footer
 /*
 Blog
 */
-.post-content a {
+.more a {
   text-decoration: none;
   color: black;
-}
-
-.post-content p a {
   padding: 6px;
   background: #EEE;
   border-radius: 3px;
+}
+
+.more a:hover {
+  background: #CCC;
 }

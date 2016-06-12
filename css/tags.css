@@ -1,0 +1,14 @@
+.tag {
+  padding-left: 3px;
+  padding-right: 3px;
+  margin: 3px;
+  border-radius: 3px;
+}
+
+.tag1 {
+  background: #66F;
+}
+
+.tag2 {
+  background: #FC6;
+}
