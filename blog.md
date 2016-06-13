@@ -3,7 +3,7 @@ layout: page
 title: Blog
 permalink: /blog/
 ---
-### No Blog posts yet
+### No blogs posted at this time.
 {% for post in site.posts %}
 ### {{post.title}}
 {% for tag in post.tags %}<span class="tag {{tag}}">{{tag}}</span>{% endfor %}
