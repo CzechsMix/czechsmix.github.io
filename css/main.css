@@ -94,3 +94,15 @@ Blog
 .more a:hover {
   background: #CCC;
 }
+
+/*
+Blog content
+*/
+
+.post-content p img {
+  display: block;
+  max-width: 400px;
+  max-height: 400px;
+  margin: auto;
+  border-radius: 15px;
+}
