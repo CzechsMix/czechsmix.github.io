@@ -18,3 +18,9 @@ github_username:  czechsmix
 
 # Build settings
 markdown: kramdown
+
+defaults:
+  scope:
+    path: ""
+    type: posts
+  values:
