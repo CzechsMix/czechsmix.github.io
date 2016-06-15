@@ -30,7 +30,7 @@ Still confused? Eat Less. Move more.
 
 #### The more difficult part.
 
-See, when I started, I thought all I needed to do was move drop the weight. My diet was mostly okay, and I was fairly active. I just had a few extra pounds. I was wrong. What you need to do is become the kind of person for whom weight is not an issue. Whether that means adopting a hyper active lifestyle where you can't wait to start your day with a 10 mile run, or overhauling you entire diet to consist of lean meats, and high fiber vegetables. For me, it was simply mindfulness. Knowing what, and how much I ate, and how active I was. With that data, I could know that I was keeping the right balance to achieve my particular fitness goals.
+See, when I started, I thought all I needed to do was drop the weight. My diet was mostly okay, and I was fairly active. I just had a few extra pounds. I was wrong. What you need to do is become the kind of person for whom weight is not an issue. Whether that means adopting a hyper active lifestyle where you can't wait to start your day with a 10 mile run, or overhauling you entire diet to consist of lean meats, and high fiber vegetables. For me, it was simply mindfulness. Knowing what, and how much I ate, and how active I was. With that data, I could know that I was keeping the right balance to achieve my particular fitness goals.
 
 #### The gritty details.
 
