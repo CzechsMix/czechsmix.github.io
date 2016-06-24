@@ -18,7 +18,7 @@ Back to the secret. You've probably heard it before, but here is the equation th
 
 >Calories In < Calories Out = Weightloss
 
-Often shortened to "CI < CO" or CICO (if your curious, I find it's easiest to pronounce it Seekoh)
+Often shortened to "CI < CO" or CICO (if you're curious, I find it's easiest to pronounce it Seekoh)
 
 The above formula is an extremely simplified version of how the food we eat becomes energy our body needs and fat our body stores. If you're interested, Ruben Meerman gives a fantastic TEDx talk, that at the time of writing can be found [here](http://youtu.be/vuIlsN32WaE). I so recommend you watch it, that I'll go ahead and embed it in this post.
 
