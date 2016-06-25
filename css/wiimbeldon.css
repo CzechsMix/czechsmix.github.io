@@ -1,0 +1,20 @@
+.round {
+  width: 125px;
+  border-bottom: 1px solid black;
+}
+
+.bracket .round:nth-child(2n) {
+  margin-left: 125px;
+}
+
+.bracket .round:nth-child(4n) {
+  margin-left: 250px;
+}
+
+.bracket .round:nth-child(8n) {
+  margin-left: 375px;
+}
+
+.bracket .round:nth-child(16n) {
+  margin-left: 500px;
+}
