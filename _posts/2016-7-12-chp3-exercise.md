@@ -2,6 +2,7 @@
 layout: post
 title: How I lost it - Chapter 3&#58; Outrunning a bad fork, and why you can't.
 tags: sound-body weight-loss
+reddit: https://www.reddit.com/r/LevelUpQuest/comments/4skhwe/discussion_thread_how_i_lost_it_chapter_3/
 ---
 
 In this post, I'm going to talk about the "move more" part of the common phrase. Why you should totally do it, and why should not count on it at all for weight loss.
