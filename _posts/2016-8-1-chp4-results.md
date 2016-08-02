@@ -2,6 +2,7 @@
 layout: post
 title: How I lost it - Chapter 4&#58; Seeing Results
 tags: sound-body weight-loss
+reddit: https://www.reddit.com/r/LevelUpQuest/comments/4vq8jj/discussion_thread_how_i_lost_it_chapter_4_seeing/
 ---
 
 So you've been weighing your oatmeal, and counting your slices of hand tossed pepperoni for a few weeks now. What do you need to know about seeing results?
