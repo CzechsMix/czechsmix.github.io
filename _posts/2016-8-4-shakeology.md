@@ -2,6 +2,7 @@
 layout: post
 title: Is Shakeology worth it?
 tags: product-review
+reddit: https://www.reddit.com/r/LevelUpQuest/comments/4w451b/discussion_thread_is_shakeology_worth_it/
 ---
 
 Pushed hard by beachbody coaches everywhere, I take a look at this fitness supplement to find out if it measures up to the hype.
@@ -46,6 +47,8 @@ So where do we stand? Is Shakeology worth it? Well value is subjective, so I can
 "[$ave Dat Money](https://www.youtube.com/watch?v=yvHYWD29ZNY)"
 
 ![save_dat_money][save_dat_money]
+
+-CzechsMix Out
 
 [shake]: /img/2016/8/4/shake.png "Shakeology"
 [save_dat_money]: /img/2016/8/4/save_dat_money.gif "Save that money"
