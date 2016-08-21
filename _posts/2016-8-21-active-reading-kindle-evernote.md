@@ -10,7 +10,7 @@ In this post, I explain my process for making the most of my reading by saving a
 
 ![Good News][good_news]
 
-You don't need one! Any eBook purchased through amazon (or checked out via KindleUnlimited) can be read either online with Amazon [Cloud Reader](read.amazon.com), or with their app, available on many mobile devices. All of the functionality explained here will still work.
+You don't need one! Any eBook purchased through amazon (or checked out via KindleUnlimited) can be read either online with Amazon [Cloud Reader](https://read.amazon.com), or with their app, available on many mobile devices. All of the functionality explained here will still work.
 
 #### Why Evernote?
 
