@@ -24,7 +24,7 @@ If it's unclear, I'll fill in the gaps. It's a powdered shake mix, but what make
 
 How does it accomplish all this?
 
-Well reducing cravings for junk food and lose weight go hand in hand. Remember [CICO](/2016/06/23/chp1-secret/)? Well if you're eating less calorie dense junk food, you'll be reducing your calorie intake. Fair enough, but how does it reduce calorie cravings? It makes you feel full. Remember when I broke down [food](/2016/06/27/chp2-bit-food/)? Shakeology has 17g of protein and 6g of fiber to help you feel full. The healthy energy comes from 17g of carbohydrates (including 6g of sugar). Finally the digestion comes from prebiotics, the aforementioned fiber, and probiotics.
+Well reducing cravings for junk food and lose weight go hand in hand. Remember [CICO](/glossary#CICO)? Well if you're eating less calorie dense junk food, you'll be reducing your calorie intake. Fair enough, but how does it reduce calorie cravings? It makes you feel full. Remember when I broke down [food](/2016/06/27/chp2-bit-food/)? Shakeology has 17g of protein and 6g of fiber to help you feel full. The healthy energy comes from 17g of carbohydrates (including 6g of sugar). Finally the digestion comes from prebiotics, the aforementioned fiber, and probiotics.
 
 #### Can it be made with substitutes?
 
