@@ -2,6 +2,7 @@
 layout: post
 title: Active Reading and Note Taking with Kindle and Evernote
 tags: sound-mind reading
+reddit: https://www.reddit.com/r/LevelUpQuest/comments/4yx3p7/discussion_thread_active_reading_and_note_taking/
 ---
 
 In this post, I explain my process for making the most of my reading by saving all the important information quickly and reliably with two of my favorite tools.
