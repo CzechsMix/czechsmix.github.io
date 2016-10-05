@@ -6,9 +6,9 @@ tags: sound-body weight-loss
 
 #### When you have to eat fast food.
 
-Contrary to popular belief, fast food is not *inherently* higher in calories than homemade counterparts. However, most menu items still tend to be calorie dense.
+Contrary to popular belief, fast food is not *inherently* higher in calories than homemade counterparts. However, most menu items still tend to be calorie dense. This is because they have an incentive to make their food really delicious for the least cost, with little or no regard to calories. Which basically means they load them up with fat and sugar. If you did that to your food at home, it would be calorie dense too.
 
-If you're on the go, here are a few basic guidelines how to eat at fast food without breaking your calorie bank.
+However, not everything they serve is a calorie bomb. If you're on the go, here are a few basic guidelines how to eat at fast food without breaking your calorie bank.
 
 **1. Avoid, or at least be wary of, the carbohydrate based side dishes.**
 
@@ -23,7 +23,7 @@ If something has ranch, mayo, bacon or avocado on it, those are going to add up.
 **4. Get a water, or at the very least a diet soda.**
 There is nothing so jam packed with calories, that is so utterly devoid of nutrition, and so not filling as sugary sodas. Just don't bother.
 
-None of these guidelines are any more important to the others, and you'll have to keep all of them in mind. Consider the aforementioned Chicken Bacon Ranch example.
+None of these guidelines are any more important to the others (okay, the soda one is the probably the most important one... just say no), and you'll have to keep all of them in mind. Consider the aforementioned Chicken Bacon Ranch example.
 
 #### Planning for holidays, parties, and potlucks.
 
@@ -44,13 +44,13 @@ With this option, you'd eat slightly less for the several days leading up to the
 Let's say you have a party this weekend, and a daily calorie goal of 1700. You could eat 1500 for 6 days, then during the party, you'd have 1200 calories in addition to your daily allotment of 1700 calories, to play around with.
 
 **4. Say "Fuck it"**
-Lastly, you can just not count calories and eat whatever you feel like. This is the easiest option to execute, but has maximum risk of throwing you out of your routine. In the long run, a single day will be a tiny blip on your weight loss history, and even if you were worried, you would have to consume 3,500 calories MORE than you burned, in order to gain a single pound of fat from a single day.
+Lastly, you can just not count calories and eat whatever you feel like. This is the easiest option to execute, but has maximum risk of throwing you out of your routine. In the long run, a single day will be a tiny blip in your weight loss history, and even if you were worried, you would have to consume 3,500 calories MORE than you burned, in order to gain a single pound of fat from a single day.
 
 The kicker is this: if you do this often enough, you may find that you start to get more and more loose with your definition of "special event" and before you know it, you're forgetting to track at all. This option is very risky, and I wouldn't recommend it at all if you're just starting out.
 
 #### What can I do if I screw up?
 
-When you find you've lost your way, maybe you ate a cookie you shouldn't have. Or went out for a pizza buffet at lunch, or haven't logged a single entry in weeks. There is, and always will be, only one thing you can do.
+When you find you've lost your way, maybe you ate a cookie you shouldn't have. Or went out for a pizza buffet at lunch, or haven't logged a single entry in weeks. There is, and always will be, one and only one thing you can do.
 
 Get right back to your routine.
 
