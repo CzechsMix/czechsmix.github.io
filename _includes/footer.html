@@ -1,15 +1,12 @@
 <div class="footer">
   <ul id="social-media-icons">
+  {% if site.facebook_page %}
   <li>
-    <a href="https://www.facebook.com/LevelUpQuest/">
-      <i class="fa fa-facebook" title="Subscribe to my facebook page"></i>
+    <a href="https://www.facebook.com/{{ site.facebook_page }}">
+      <i class="fa fa-facebook" title="Like to my facebook page"></i>
     </a>
   </li>
-  <li>
-    <a href="https://reddit.com/r/levelupquest">
-      <i class="fa fa-reddit" title="Subscribe to the CzechsMix's Quest to Level Up subreddit"></i>
-    </a>
-  </li>
+  {% endif %}
     {% if site.twitter_username %}
       <li>
         <a href="https://twitter.com/{{ site.twitter_username }}">
@@ -31,7 +28,7 @@
       </li>
       <li>
         <a href="mailto: sferree567@gmail.com">
-          <i class="fa fa-envelope" title="Email czechsmix"></i>
+          <i class="fa fa-envelope" title="Email"></i>
         </a>
       </li>
   </ul>

@@ -4,9 +4,12 @@ title: About
 permalink: /about/
 ---
 
-### I'm trying to get better at stuff and things and getting better.
+### I'm trying to get better at getting better.
 
-I try to spend quite of bit of time doing my best to building a sound body, a sound mind and achieving goals I set for myself. Such is the main content of my blog, but all work and no play makes Sam a dull boy. So, when I'm relaxing I enjoy spending time with friends, the brewing, *and drinking* of craft beer, and nearly all manner of video and board games.
+I write books and blog posts about using organization and productivity habits
+to build a Sound Mind, Sound Body, and Sound Finances.
+
+I'm also a 9 to 5 full stack web engineer, and 24/7 dad.
 
 *Site Credits*
 
