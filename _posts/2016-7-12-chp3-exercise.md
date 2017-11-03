@@ -60,5 +60,3 @@ So by all means, definitely exercise! Just don't make it the sole egg basket for
    Weight training is great for all sorts of reasons. Building muscle is what gives otherwise skinny bodies the shape typically referred to as "toned". But lifting weights has it's dangers. What's great about stronglifts, is that it's a barbell program utilizing compound lifts to engage several muscle groups, in just a few types of lifts. It also starts with an empty bar, and moves up only 5 pounds each time, making it very hard to strain yourself on a weight you aren't ready for.
 
 So there you have it. Exercise is fantastic, but the gym is where you get "in shape". You lose weight in the kitchen. If you're familiar with the 80/20 rule, think of it like this: 80% of your weight loss results will come from the "20%" you spend planning and recording your meals, not working out.
-
--CzechsMix out

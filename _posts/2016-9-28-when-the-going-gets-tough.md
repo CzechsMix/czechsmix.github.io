@@ -63,5 +63,3 @@ When you find you've lost your way, maybe you ate a cookie you shouldn't have. O
 ***Get right back to on the horse.***
 
 The sooner you can get back to logging, and eating at a caloric deficit, the better, but it's never too late. Never let a slip up spiral into an excuse for more. A bad hour does not make a bad day, a bad day does not make a bad week, a bad week does not make a bad month, and a bad month does not make a bad year.
-
--CzechsMix Out

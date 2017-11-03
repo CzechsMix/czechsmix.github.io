@@ -36,7 +36,5 @@ See, when I started, I thought all I needed to do was drop the weight. My diet w
 
 So through this process I learned a lot. So much that I started writing a book. To keep me on top of it, I will be publishing it's chapters as blog posts, until the entire ebook is completed. But I will give you this bit right now. Find a support group. Some people with the same goals. They need not be friends, and can even be strangers. I actually think the latter works better. If you aren't sure where to find people to help and encourage you along your path, I cannot recommend any group more highly than the community at [/r/loseit](https://www.reddit.com/r/loseit). I whole heartedly encourage you to pop over, read some posts, and most importantly, ask questions if you aren't sure about something.
 
-  -CzechsMix Out
-
 [before]: /img/2016/6/14/before.png "Before Photo"
 [current]: /img/2016/6/14/current.png "Current Photo"

@@ -33,5 +33,3 @@ Now, if you're like me, there will be exceptions. I myself am a home brewer, and
 So I've talked about foods that you'll want to embrace, and foods you'll want to avoid, but some of the more careful readers will point out that I mentioned this wasn't really a diet book, because it doesn't matter what the food is, and yeah, that's still true.
 
 If your calorie goal is 1700 and you fill it with nothing but cookies and soda, I stand by my claim that **if you are eating less than you burn you will lose weight.** So here's the rub. Nothing is taboo, all things in moderation. You want pizza? Fine, log it. Chinese? Punch it in and enjoy. Is it biscuits and gravy for dinner? No problem, cut a little back on breakfast and lunch and find yourself with 1000 calories to use all on dinner. How you make room in your budget for the foods you want to eat is up to you.
-
--CzechsMix Out
