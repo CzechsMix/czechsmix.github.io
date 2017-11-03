@@ -22,7 +22,7 @@ twitter_username: sam_ferree
 github_username:  czechsmix
 facebook_page: samferreeauthor
 paginate: 5
-paginate_path: "/blog/page:num"
+paginate_path: "/blog/:num"
 
 # Build settings
 markdown: kramdown
