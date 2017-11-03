@@ -5,16 +5,24 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
+# Plugins
+plugins: [jekyll-paginate]
+
 # Site settings
-title: Czechsmix's Quest to Level Up
+title: Sam Ferree
 email: sferree567@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A site for Sam 'CzechsMix' Ferree to post thoughts and projects.
-  A blog about building a more sound mind, sound body, and leveling up in life.
+  Sam Ferree is a Full Stack Web Engineer, Author, Blogger and Stoic.
+  He's trying to get better at getting better, and help people
+  cultivate a sound mind, a sound body, and sound finances
+  through disciplined productivity and organization.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://czechsmix.com" # the base hostname & protocol for your site
+url: "http://fullstackstoic.com" # the base hostname & protocol for your site
 twitter_username: sam_ferree
 github_username:  czechsmix
+facebook_page: samferreeauthor
+paginate: 5
+paginate_path: "/blog/page:num"
 
 # Build settings
 markdown: kramdown
