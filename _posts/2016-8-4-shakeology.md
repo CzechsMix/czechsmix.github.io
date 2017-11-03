@@ -48,8 +48,6 @@ So where do we stand? Is Shakeology worth it? Well value is subjective, so I can
 
 ![save_dat_money][save_dat_money]
 
--CzechsMix Out
-
 [shake]: /img/2016/8/4/shake.png "Shakeology"
 [save_dat_money]: /img/2016/8/4/save_dat_money.gif "Save that money"
 [protein]: /img/2016/8/4/ON-gold-standard.jpg "Gold Standard Whey protein"
