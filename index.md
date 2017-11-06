@@ -4,7 +4,7 @@ layout: default
 
 ## Featured Posts
 
-### Keeping Active Reading List with Nuclino
+### Keeping an Active Reading List with Nuclino
 
 In this post, I give a quick overview of Nuclino, and how I use it to manage my active reading list.
 This reading list replaces the [previous system I used with evernote](/2016/08/21/active-reading-kindle-evernote.html).

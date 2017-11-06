@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Keeping Active Reading List with Nuclino
+title: Keeping an Active Reading List with Nuclino
 tags: sound-mind
 ---
 
