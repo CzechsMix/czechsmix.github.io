@@ -4,12 +4,12 @@ layout: default
 
 ## Featured Posts
 
-### Active Reading and Note Taking with Kindle and Evernote
-*update coming soon as I've migrated from Evernote to [Nuclino](http://nuclino.com)*
+### Keeping Active Reading List with Nuclino
 
-In this post, I explain my process for making the most of my reading by saving all the important information quickly and reliably with two of my favorite tools.
+In this post, I give a quick overview of Nuclino, and how I use it to manage my active reading list.
+This reading list replaces the [previous system I used with evernote](/2016/08/21/active-reading-kindle-evernote.html).
 
-<span class="more">[Read More...](/2016/08/21/active-reading-kindle-evernote.html)</span>
+<span class="more">[Read More...](/2017/11/06/nuclino-reading-list.html)</span>
 
 ### Is Shakeology Worth it?
 
