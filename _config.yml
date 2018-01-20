@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://fullstackstoic.com"
+url: "fullstackstoic.com"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
