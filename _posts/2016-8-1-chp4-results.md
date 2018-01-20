@@ -3,6 +3,7 @@ layout: post
 title: How I lost it - Chapter 4&#58; Seeing Results
 tags: sound-body weight-loss
 reddit: https://www.reddit.com/r/LevelUpQuest/comments/4vq8jj/discussion_thread_how_i_lost_it_chapter_4_seeing/
+thumbnail: "assets/img/2016/8/1/weight_graph.png"
 ---
 
 So you've been weighing your oatmeal, and counting your slices of hand tossed pepperoni for a few weeks now. What do you need to know about seeing results?
@@ -38,4 +39,4 @@ Then there's the possibility that you're counting wrong. If this is the case, yo
 I know you've heard stories about your friend who eats 5000 calories and doesn't gain weight, or a friend who only eats 1000 and struggles with their weight. Sadly these people are not special snowflakes, they are just bad at math. It's hard truth time. Your food log, and your activity log are just tools to help you hit a caloric deficit. Your body is the real log. If the weight is not coming off, then you are not eating less than you burn. Whether you're wrong about calories in, or calories out, or both, somewhere you're slipping. Find the leak, and plug it.
 
 
-[weight_graph]: /img/2016/8/1/weight_graph.png
+[weight_graph]: /assets/img/2016/8/1/weight_graph.png
