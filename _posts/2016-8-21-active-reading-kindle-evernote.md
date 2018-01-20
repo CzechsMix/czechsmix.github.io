@@ -58,5 +58,5 @@ Now after reading a new book, it's important to go back periodically and re-read
 
 I've just out lined my *personal* process. I encourage you to experiment and find what works for you. If you have any suggestions, I'd love to hear about them on [twitter](http://twitter.com/sam_ferree))
 
-[good_news]: /img/2016/8/21/good_news.png "Good News Everyone!"
-[note_example]: /img/2016/8/21/note_example.png "an example of note taking in evernote"
+[good_news]: /assets/img/2016/8/21/good_news.png "Good News Everyone!"
+[note_example]: /assets/img/2016/8/21/note_example.png "an example of note taking in evernote"

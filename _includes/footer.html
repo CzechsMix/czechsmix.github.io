@@ -1,35 +1,13 @@
-<div class="footer">
-  <ul id="social-media-icons">
-  {% if site.facebook_page %}
-  <li>
-    <a href="https://www.facebook.com/{{ site.facebook_page }}">
-      <i class="fa fa-facebook" title="Like to my facebook page"></i>
-    </a>
-  </li>
-  {% endif %}
-    {% if site.twitter_username %}
-      <li>
-        <a href="https://twitter.com/{{ site.twitter_username }}">
-          <i class="fa fa-twitter" title="Follow me on twitter"></i>
-        </a>
-      </li>
-    {% endif %}
-    {% if site.github_username %}
-      <li>
-        <a href="https://github.com/{{ site.github_username }}">
-          <i class="fa fa-github" title="View CzechsMix on github"></i>
-        </a>
-      </li>
-    {% endif %}
-      <li>
-        <a href="/feed.xml">
-          <i class="fa fa-rss" title="Subscribe to Blog via RSS"></i>
-        </a>
-      </li>
-      <li>
-        <a href="mailto: sferree567@gmail.com">
-          <i class="fa fa-envelope" title="Email"></i>
-        </a>
-      </li>
-  </ul>
-</div>
+{% if site.theme_settings.footer_text %}
+<footer class="site-footer">
+    <p class="text">{{ site.theme_settings.footer_text }}</p>
+            <div class="footer-icons">
+                <ul>
+                <!-- Social icons from Font Awesome, if enabled -->
+                {% include icons.html %}
+                </ul>
+            </div>
+</footer>
+{% endif %}
+
+

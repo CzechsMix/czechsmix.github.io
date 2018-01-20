@@ -61,7 +61,7 @@ In this post, I've given you a quick overview of nuclino, and how I use it to ma
 
 [Nuclino Help Center](https://help.nuclino.com/)
 
-[add-item]: /img/2017/nuclino-reading-list/nuclino_add_item.png "Add an item"
-[meta-cluster]: /img/2017/nuclino-reading-list/nuclino_meta_cluster.PNG "The Meta Cluster"
-[reading-kanban]: /img/2017/nuclino-reading-list/nuclino_reading_kanban.PNG "The Kanban Board"
-[nuclino-structure]: /img/2017/nuclino-reading-list/nuclino_structure.PNG "Reading List Structure"
+[add-item]: /assets/img/2017/nuclino-reading-list/nuclino_add_item.png "Add an item"
+[meta-cluster]: /assets/img/2017/nuclino-reading-list/nuclino_meta_cluster.PNG "The Meta Cluster"
+[reading-kanban]: /assets/img/2017/nuclino-reading-list/nuclino_reading_kanban.PNG "The Kanban Board"
+[nuclino-structure]: /assets/img/2017/nuclino-reading-list/nuclino_structure.PNG "Reading List Structure"
