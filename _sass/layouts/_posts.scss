@@ -114,3 +114,13 @@ header {
         vertical-align: middle;
     }
 }
+
+blockquote {
+    p {
+        width: 80%;
+        a {
+            margin-right: -25%;
+            float: right;
+        }
+    }
+}
