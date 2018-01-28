@@ -3,7 +3,7 @@ layout: post
 title: Where I started, Where I'm at now, and how I got here.
 feature-img: "assets/img/pexels/long-ago.jpeg"
 thumbnail: "assets/img/2016/6/14/before_after.png"
-tags: sound-body weight-loss
+tags: [Sound Body, Weight Loss]
 ---
 
 Shortly before my wedding, I decided that I would make a fourth attempt at losing my excess weight and getting in shape. I was over 230 pounds, almost none of which was lean muscle mass, and obese for my height. After my most recent attempt where I failed to outrun a bad fork, I decided to bite the bullet and keep a food log. So here's what I looked like when I started.

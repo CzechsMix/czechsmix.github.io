@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I Lost it - Chapter 5&#58; When The Going Gets Tough
-tags: sound-body weight-loss
+tags: [Sound Body, Weight Loss]
 ---
 
 Things aren't always going to be easy? How do you keep your cool and make it through the rough patches without getting off your plan?

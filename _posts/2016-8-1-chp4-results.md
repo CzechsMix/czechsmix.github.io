@@ -1,8 +1,7 @@
 ---
 layout: post
 title: How I lost it - Chapter 4&#58; Seeing Results
-tags: sound-body weight-loss
-reddit: https://www.reddit.com/r/LevelUpQuest/comments/4vq8jj/discussion_thread_how_i_lost_it_chapter_4_seeing/
+tags: [Sound Body, Weight Loss]
 thumbnail: "assets/img/2016/8/1/weight_graph.png"
 ---
 

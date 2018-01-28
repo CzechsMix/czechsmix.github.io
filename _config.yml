@@ -2,6 +2,7 @@
 baseurl: ""
 url: "fullstackstoic.com"
 title: Full Stack Stoic
+name: Full Stack Stoic
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
