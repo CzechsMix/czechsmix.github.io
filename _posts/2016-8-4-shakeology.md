@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Is Shakeology worth it?
-tags: product-review
-reddit: https://www.reddit.com/r/LevelUpQuest/comments/4w451b/discussion_thread_is_shakeology_worth_it/
+tags: [Product Review]
 thumbnail: "assets/img/2016/8/4/shake.png"
 ---
 

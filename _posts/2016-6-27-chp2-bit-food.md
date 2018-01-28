@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I lost it - Chapter 2&#58; A bit about food.
-tags: sound-body weight-loss
+tags: [Sound Body, Weight Loss]
 ---
 
 The next chapter of my weight-loss "blog to eBook" I know this one looks a bit lengthy, but I had a lot to cover on this topic.

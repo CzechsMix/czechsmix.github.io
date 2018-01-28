@@ -3,7 +3,7 @@ layout: post
 title: 4 Questions You Should Stop Asking If You Want To Lose Weight
 feature-img: "assets/img/2018/1/24/question.jpg"
 thumbnail: "assets/img/2018/1/24/question.jpg"
-tags: sound-body weight-loss
+tags: [Sound Body, Weight Loss]
 ---
 
 ## And What You Should Ask Instead

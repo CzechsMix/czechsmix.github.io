@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Keeping an Active Reading List with Nuclino
-tags: sound-mind
+tags: [Sound Mind, Reading]
 ---
 
 In this post, I give a quick overview of Nuclino, and how I use it to manage my active reading list.

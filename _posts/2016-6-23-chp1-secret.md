@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I lost it - Chapter 1&#58; The Secret
-tags: sound-body weight-loss
+tags: [Sound Body, Weight Loss]
 ---
 
 The first chapter of my upcoming eBook.

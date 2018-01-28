@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 feature-img: "assets/img/pexels/ancient.jpeg"
-tags: [About, Test]
 ---
 
 ### I'm trying to get better at getting better.
