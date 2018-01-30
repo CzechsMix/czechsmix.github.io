@@ -38,6 +38,10 @@
     </script>
     {% endif %}
 
+    {% for css_name in page.extra_css %}
+        <link rel="stylesheet" href="{{ css_name }}">
+    {% endfor %}
+
     <!-- Google Analytics -->
     {% if site.theme_settings.google_analytics %}
     <script>
