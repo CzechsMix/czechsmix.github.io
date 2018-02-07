@@ -6,7 +6,7 @@ tags: [Productivity, Todoist]
 
 If you follow me on [Twitter](https://twitter.com/sam_ferree), it's no secret I'm a huge fan of [Todoist](https://todoist.com). So you can expect posts like this one to come up from time to time. In this post, I explain how I've been using features of Todoist to implement what I call "Task Templates", But first things first...
 
-# Project Templates and their drawbacks
+## Project Templates and their drawbacks
 
 While there is an existing feature known as templates, it is project based, and has some drawbacks. Task Templates are an alternative method for using templates in todoist, with some features that make them more desirable than project templates. Task Templates aren't explicitly a feature of Todoist, but a serendipitous result of four other Todoist features. Before we dive into Task Templates, let's look a little bit at Project Templates.
 
@@ -20,7 +20,7 @@ This is an unfortunate consequence of the way they are stored, as a file. First 
 
 Additionally, If you update a project template, you need to update the physical file, wherever you've stored it. 
 
-# Why we can make Task Templates
+## Why we can make Task Templates
 
 Remember I said that Task Templates are just the product of four other key features? Let's go over what those are.
 
@@ -50,7 +50,7 @@ The real kicker here is that when you duplicate a task, Todoist will also duplic
 
 ![Duplicate][duplicate]
 
-# Making and using Task Templates
+## Making and using Task Templates
 
 ### First, Create an uncheckable task, and add sub tasks under it.
 
@@ -85,7 +85,7 @@ Then I would select the options on the title task again and move into a project,
 
 ![Cookies Step 4][cookies_step_4]
 
-# Drawbacks of Task Templates
+## Drawbacks of Task Templates
 
 While the Task Templates offer several advantages over project templates, they have two major drawbacks as far as I can tell.
 
